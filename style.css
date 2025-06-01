@@ -19,6 +19,7 @@ body{
     background-color: white;
     padding: 1em;
     border-radius: 15px;
+    box-shadow: 4px 10px 20px hsl(0, 0%, 60%);
 }
 
 
